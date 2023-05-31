@@ -1,0 +1,124 @@
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\appsettings.Development.json
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\appsettings.json
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.exe
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.deps.json
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.runtimeconfig.json
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.pdb
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.AssemblyInfo.cs
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets.pack.json
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets.build.json
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets.development.json
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.csproj.CopyComplete
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\refint\WebAPI.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.pdb
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.genruntimeconfig.cache
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\obj\Release\net6.0\ref\WebAPI.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\msvcp140.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\vcruntime140.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\vcruntime140_1.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Azure.Core.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\System.Drawing.Common.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\System.Memory.Data.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\System.Security.Permissions.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\_Projects\20230301-Exam practice\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\msvcp140.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\vcruntime140.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\vcruntime140_1.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\appsettings.Development.json
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\appsettings.json
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.exe
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.deps.json
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.runtimeconfig.json
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\WebAPI.pdb
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Azure.Core.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\refint\WebAPI.dll
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.pdb
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\jinnes\OneDrive - Pulsion Technology Ltd\Documents\_PROJECTS\Velappity\TEST\WebAPI\WebAPI\obj\Release\net6.0\ref\WebAPI.dll
